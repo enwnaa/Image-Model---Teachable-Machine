@@ -1,1 +1,9 @@
-The website aims to help users sort various types of trinkets for organizational or gift-giving purposes. 
+OBJECTIVE/PROGRAM DOCUMENTATION
+The website aims to help users sort various types of trinkets for organizational or gift-giving purposes. Users are able to utilize this platform by clicking on the "Start Scanner" button, which will load their device camera for them to place their trinket in front. The website will sort the trinket into one of the following categories: Smiski, Cat Keychain, Penguin Keychain, or none of the above due to a plain background being shown.
+
+DESIGN DECISIONS
+The platform is designed to model a cute, coquette aesthetic that creates a cozy environment for users to interact with the website during their recreational time. For example, the website text and shapes are pink with a special feature of yellow sparkle graphic designs. The format and appearance of the website were created with the intention to appear cute and aesthetically pleasing; Google Gemini was used to assist with this design process. The end result was a pink, simple website with a functional button for users to click on and detect different trinkets based on percentages.
+Link to Google Gemini conversation: https://gemini.google.com/app/a9da8d3d7667da59
+
+LIMITATIONS/FUTURE DEVELOPMENTS
+The user must use their live camera to show their trinket or a picture of their trinket, in order for the program to recognize and categorize the shown trinket. A future development that is necessary to improve user experience is a feature for users to upload photos directly from their device files or Google Drive, so they don't have to turn on the camera in unsuitable environments, or if they do not physically have the trinket with them. Additionally, the website is currently only trained to recognize a limited number of trinkets. In the future, this limitation will be addressed by exposing the machine system to a wider variety of trinkets.
